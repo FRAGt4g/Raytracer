@@ -1,0 +1,8 @@
+TL;DR: Make spheres, and then import to buffer from scene, and then make triangles
+
+The way to render images from within the scene view is just by passing them into a buffer to the
+shader. He also was using an unlit shader if that matters but idk.
+
+Start with spheres and finish out that first paper you were looking at; once you are done with that,
+then you can start working on getting multiple in editor spheres into the render AND THEN you can 
+start working on triangles (and all other kinds of models).
